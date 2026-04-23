@@ -39,7 +39,7 @@ Ela aborda os principais conceitos de forma direta e visual, permitindo que qual
 
 > Abaixo está a cartilha desenvolvida:
 
-![Cartilha de Segurança da Informação](./cartilha.png)
+![Cartilha de Segurança da Informação](https://github.com/jamilcfilho/CartilhaSegurancaInformacao/blob/main/Cartilha%20digital%20-%20Seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o.png)
 
 > 💡 *Dica:* Clique com o botão direito e abra a imagem em uma nova aba para visualizar com mais detalhes.
 
